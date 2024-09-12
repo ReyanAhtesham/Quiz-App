@@ -1,0 +1,234 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string-array name="questions">
+        <item>Q1. What is the capital of France?</item>
+        <item>Q2. What is 2 + 2?</item>
+        <item>Q3. Who wrote Hamlet?</item>
+        <item>Q4. What is the chemical symbol for water?</item>
+        <item>Q5. What is the largest planet in our solar system?</item>
+        <item>Q6. Who painted the Mona Lisa?</item>
+        <item>Q7. What is the square root of 64?</item>
+        <item>Q8. What is the currency of Japan?</item>
+        <item>Q9. In which continent is the Sahara Desert located?</item>
+        <item>Q10. What is the smallest prime number?</item>
+        <item>Q11. What element does O represent on the periodic table?</item>
+        <item>Q12. Which year did World War I begin?</item>
+        <item>Q13. Who developed the theory of relativity?</item>
+        <item>Q14. What is the capital of Australia?</item>
+        <item>Q15. What is the boiling point of water at sea level?</item>
+        <item>Q16. Which planet is known as the Red Planet?</item>
+        <item>Q17. Who is the author of Pride and Prejudice?</item>
+        <item>Q18. What is the longest river in the world?</item>
+        <item>Q19. What is the primary ingredient in guacamole?</item>
+        <item>Q20. What is the capital of Canada?</item>
+        <item>Q21. Which organ is responsible for pumping blood in the human body?</item>
+        <item>Q22. What is the chemical formula for table salt?</item>
+        <item>Q23. Which country hosted the 2016 Summer Olympics?</item>
+        <item>Q24. Who invented the light bulb?</item>
+        <item>Q25. What is the main gas found in the Earths atmosphere?</item>
+    </string-array>
+
+    <string-array name="options1">
+        <item>Paris</item>
+        <item>London</item>
+        <item>Berlin</item>
+        <item>Rome</item>
+    </string-array>
+
+    <string-array name="options2">
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+
+    <string-array name="options3">
+        <item>William Shakespeare</item>
+        <item>Mark Twain</item>
+        <item>Charles Dickens</item>
+        <item>Ernest Hemingway</item>
+    </string-array>
+
+    <string-array name="options4">
+        <item>H2O</item>
+        <item>CO2</item>
+        <item>O2</item>
+        <item>NaCl</item>
+    </string-array>
+
+    <string-array name="options5">
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+    </string-array>
+
+    <string-array name="options6">
+        <item>Leonardo da Vinci</item>
+        <item>Vincent van Gogh</item>
+        <item>Pablo Picasso</item>
+        <item>Claude Monet</item>
+    </string-array>
+
+    <string-array name="options7">
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+    </string-array>
+
+    <string-array name="options8">
+        <item>Yuan</item>
+        <item>Dollar</item>
+        <item>Yen</item>
+        <item>Peso</item>
+    </string-array>
+
+    <string-array name="options9">
+        <item>Asia</item>
+        <item>Africa</item>
+        <item>Australia</item>
+        <item>Europe</item>
+    </string-array>
+
+    <string-array name="options10">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="options11">
+        <item>Oxygen</item>
+        <item>Gold</item>
+        <item>Iron</item>
+        <item>Carbon</item>
+    </string-array>
+
+    <string-array name="options12">
+        <item>1914</item>
+        <item>1939</item>
+        <item>1918</item>
+        <item>1945</item>
+    </string-array>
+
+    <string-array name="options13">
+        <item>Isaac Newton</item>
+        <item>Albert Einstein</item>
+        <item>Galileo Galilei</item>
+        <item>Nikola Tesla</item>
+    </string-array>
+
+    <string-array name="options14">
+        <item>Sydney</item>
+        <item>Canberra</item>
+        <item>Melbourne</item>
+        <item>Brisbane</item>
+    </string-array>
+
+    <string-array name="options15">
+        <item>90°C</item>
+        <item>100°C</item>
+        <item>110°C</item>
+        <item>120°C</item>
+    </string-array>
+
+    <string-array name="options16">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+    </string-array>
+
+    <string-array name="options17">
+        <item>Jane Austen</item>
+        <item>Emily Brontë</item>
+        <item>Charlotte Brontë</item>
+        <item>Louisa May Alcott</item>
+    </string-array>
+
+    <string-array name="options18">
+        <item>Amazon</item>
+        <item>Nile</item>
+        <item>Yangtze</item>
+        <item>Mississippi</item>
+    </string-array>
+
+    <string-array name="options19">
+        <item>Tomato</item>
+        <item>Avocado</item>
+        <item>Onion</item>
+        <item>Cucumber</item>
+    </string-array>
+
+    <string-array name="options20">
+        <item>Toronto</item>
+        <item>Ottawa</item>
+        <item>Vancouver</item>
+        <item>Montreal</item>
+    </string-array>
+
+    <string-array name="options21">
+        <item>Brain</item>
+        <item>Lungs</item>
+        <item>Heart</item>
+        <item>Liver</item>
+    </string-array>
+
+    <string-array name="options22">
+        <item>NaCl</item>
+        <item>HCl</item>
+        <item>KCl</item>
+        <item>MgCl</item>
+    </string-array>
+
+    <string-array name="options23">
+        <item>Brazil</item>
+        <item>USA</item>
+        <item>China</item>
+        <item>UK</item>
+    </string-array>
+
+    <string-array name="options24">
+        <item>Alexander Graham Bell</item>
+        <item>Thomas Edison</item>
+        <item>Benjamin Franklin</item>
+        <item>Nikola Tesla</item>
+    </string-array>
+
+    <string-array name="options25">
+        <item>Nitrogen</item>
+        <item>Oxygen</item>
+        <item>Carbon Dioxide</item>
+        <item>Argon</item>
+    </string-array>
+
+    <string-array name="correct_answers">
+        <item>Paris</item>
+        <item>4</item>
+        <item>William Shakespeare</item>
+        <item>H2O</item>
+        <item>Jupiter</item>
+        <item>Leonardo da Vinci</item>
+        <item>8</item>
+        <item>Yen</item>
+        <item>Africa</item>
+        <item>2</item>
+        <item>Oxygen</item>
+        <item>1914</item>
+        <item>Albert Einstein</item>
+        <item>Canberra</item>
+        <item>100°C</item>
+        <item>Mars</item>
+        <item>Jane Austen</item>
+        <item>Nile</item>
+        <item>Avocado</item>
+        <item>Ottawa</item>
+        <item>Heart</item>
+        <item>NaCl</item>
+        <item>Brazil</item>
+        <item>Thomas Edison</item>
+        <item>Nitrogen</item>
+    </string-array>
+
+</resources>
